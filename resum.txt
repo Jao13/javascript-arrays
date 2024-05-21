@@ -1,0 +1,57 @@
+O que é uma array??
+
+A array é uma lista que criamos para facilitar os nossos,
+códigos e cada um dessas array tem um posição;
+
+códigos que podemos colocar em nossa lista
+
+push: coloca números sem modificar a lista
+pop: deletar número da lista sem modificála
+
+As características principais de arrays:
+   Um array é uma lista ordenada de dados.
+   Você aprendeu a sintaxe de coo criar um array e acessar
+   seus valores.
+
+Os conceitos de elemento e índice:
+   Elementos são os valores que um array guarda, e índice
+   é o identificador único e numérico de cada elemento do 
+   array.
+
+Como utilizar a propriedade .lenght:
+   Todos os arrays do JavaScript possuem essa
+   propriedade, que indica a quantidade de elementos 
+   do array.
+
+Como utilizar os métodos .push() e .pop():
+   Vimos como realizar as primeiras alterações em um
+   array, como adicionar um novo item ao final ou
+   remover o último item.
+
+Como utilizar o métodos .splice():
+   O método splice serve para tirar informações da lista
+   e acresentar informações na nossa lista
+
+Como utilizar os métodos includes() e indexOf():
+   O includes() retorna true ou false, dependendo se
+   o valor passado como parâmetro está presente ou não
+   no array. O indexOf() retorna a posição no array do
+   valor passado como parâmetro. Utilizamos esses dois 
+   métodos em conjunto para primeiro vereficar se um 
+   aluno estava presente em uma lista, e depois obter
+   sua posição para buscar sua nota em outra lista.
+* Desestruturar um array:
+   Você aprendeu a sintaxe de desestruturação, disponí
+   vel desde o ES6 (EcmaScript 6), que nos permite criar
+   várias novas variáveis ao mesmo tempo a partir dos 
+   elementos de um array.
+
+Utilizar a estrutura for e entender seu funcionamento:
+   O for é constituído de três expressões: criação da
+   variável de controle; condição de execução;
+   modificação da variável de controle. Essa três
+   expressões juntas definem quantas vezes o bloco do for será executado.
+* Utilizar a estrutura for of e entender a diferença em relação ao for:
+   O for of sempre é utilizado para percorrer todos os
+   elementos de um array, do início ao fim. Para esses
+   casos, o for of é mais conciso que o for
